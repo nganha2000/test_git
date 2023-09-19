@@ -17,7 +17,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
-// test git
+// test git push
+// test git push again
 public class TC02 {
     private AndroidDriver androidDriver;
     private WebDriverWait wait;
